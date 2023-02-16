@@ -8,3 +8,5 @@ Added a new change 1
 I added this change remotely.
 
 Updated this file with feature-3.
+
+New line for feature-3
